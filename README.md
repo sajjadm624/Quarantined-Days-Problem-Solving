@@ -20,4 +20,8 @@ Its a mix up of problems which i found from-
 
 #### Problem No. 4
 **Prime Factorization** - Have the user enter a number and find all Prime Factors (if there are any) and display them.
-[Solution]()
+[Solution](https://github.com/sajjadm624/Quarantined-Days-Problem-Solving/blob/master/Number/Prime%20Factorization.py)
+
+#### Problem No. 5
+**Next Prime Number** - Have the program find prime numbers until the user chooses to stop asking for the next one.
+[Solution](https://github.com/sajjadm624/Quarantined-Days-Problem-Solving/blob/master/Number/Next%20Prime%20Number.py)
