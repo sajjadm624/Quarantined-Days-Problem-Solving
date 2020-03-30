@@ -38,6 +38,7 @@ def main():
 			print ('units not recognised, please try again')
 	    
 	#find the distance in km
+	try:
 		distance = get_distance(get_latlongs(cityA),
 				   get_latlongs(cityB))
 	#display the distance
@@ -46,6 +47,9 @@ def main():
 		else:
 			distance = convert_km_to_miles(distance)
 			print (str(distance) + ' miles') 
+		    
+	except:
+		print ('Error raised.  Are the input cities correct?')
         
             
 if __name__ == '__main__':

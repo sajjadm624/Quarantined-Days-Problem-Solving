@@ -33,3 +33,7 @@ Its a mix up of problems which i found from-
 #### Problem No. 7
 **Distance Between Two Cities** - Calculates the distance between two cities and allows the user to specify a unit of distance. This program may require finding coordinates for the cities like latitude and longitude.
 [Solution](https://github.com/sajjadm624/Quarantined-Days-Problem-Solving/blob/master/Number/Distance%20Between%20Two%20Cities.py)
+
+#### Problem No.8
+**Credit Card Validator** - Takes in a credit card number from a common credit card vendor (Visa, MasterCard, American Express, Discoverer) and validates it to make sure that it is a valid number (look into how credit cards use a checksum).
+[Soluion](https://github.com/sajjadm624/Quarantined-Days-Problem-Solving/blob/master/Number/Credit%20Card%20Validator.py)
