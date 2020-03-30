@@ -18,7 +18,12 @@ def main():
 		print("Enter the value of n.\n To quit type quit")
 		print('>>>', end='')
 		n = input()
-		fibonacci(int(n))
+		if n == "quit":
+			break
+		if not entry.isdigit():
+			print("enter a number")
+		else:
+			fibonacci(int(n))
 
 if __name__ == '__main__':
 	main()

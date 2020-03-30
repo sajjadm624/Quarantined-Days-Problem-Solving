@@ -16,4 +16,8 @@ Its a mix up of problems which i found from-
 
 #### Problem No. 3
 **Fibonacci Sequence** - Enter a number and have the program generate the Fibonacci sequence to that number or to the Nth number.
+[Solution](https://github.com/sajjadm624/Quarantined-Days-Problem-Solving/blob/master/Number/fibonacci%20sequence.py)
+
+#### Problem No. 4
+**Prime Factorization** - Have the user enter a number and find all Prime Factors (if there are any) and display them.
 [Solution]()
