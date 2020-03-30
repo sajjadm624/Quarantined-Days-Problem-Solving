@@ -25,3 +25,11 @@ Its a mix up of problems which i found from-
 #### Problem No. 5
 **Next Prime Number** - Have the program find prime numbers until the user chooses to stop asking for the next one.
 [Solution](https://github.com/sajjadm624/Quarantined-Days-Problem-Solving/blob/master/Number/Next%20Prime%20Number.py)
+
+#### Problem No. 6
+**Find Cost of Tile to Cover W x H Floor** - Calculate the total cost of tile it would take to cover a floor plan of width and height, using a cost entered by the user.
+[Solution](https://github.com/sajjadm624/Quarantined-Days-Problem-Solving/blob/master/Number/Find%20Cost%20of%20Tile.py)
+
+#### Problem No. 7
+**Distance Between Two Cities** - Calculates the distance between two cities and allows the user to specify a unit of distance. This program may require finding coordinates for the cities like latitude and longitude.
+[Solution](https://github.com/sajjadm624/Quarantined-Days-Problem-Solving/blob/master/Number/Distance%20Between%20Two%20Cities.py)
