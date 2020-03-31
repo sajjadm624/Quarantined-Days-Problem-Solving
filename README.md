@@ -37,3 +37,7 @@ Its a mix up of problems which i found from-
 #### Problem No.8
 **Credit Card Validator** - Takes in a credit card number from a common credit card vendor (Visa, MasterCard, American Express, Discoverer) and validates it to make sure that it is a valid number (look into how credit cards use a checksum).
 [Soluion](https://github.com/sajjadm624/Quarantined-Days-Problem-Solving/blob/master/Number/Credit%20Card%20Validator.py)
+
+#### Problem No. 9
+**Complex Number Algebra** - Show addition, multiplication, negation, and inversion of complex numbers in separate functions. (Subtraction and division operations can be made with pairs of these operations.) Print the results for each operation tested.
+[Solution](https://github.com/sajjadm624/Quarantined-Days-Problem-Solving/blob/master/Number/Complex%20Number%20Algebra.py)
