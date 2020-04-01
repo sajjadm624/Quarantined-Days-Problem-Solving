@@ -41,3 +41,20 @@ Its a mix up of problems which i found from-
 #### Problem No. 9
 **Complex Number Algebra** - Show addition, multiplication, negation, and inversion of complex numbers in separate functions. (Subtraction and division operations can be made with pairs of these operations.) Print the results for each operation tested.
 [Solution](https://github.com/sajjadm624/Quarantined-Days-Problem-Solving/blob/master/Number/Complex%20Number%20Algebra.py)
+
+#### Problem No. 10
+**Happy Numbers** - A happy number is defined by the following process. Starting with any positive integer, replace the number by the sum of the squares of its digits, and repeat the process until the number equals 1 (where it will stay), or it loops endlessly in a cycle which does not include 1. Those numbers for which this process ends in 1 are happy numbers, while those that do not end in 1 are unhappy numbers. Display an example of your output here. Find first 8 happy numbers.
+[Solution](https://github.com/sajjadm624/Quarantined-Days-Problem-Solving/blob/master/Number/Happy%20Numbers.py)
+
+#### Problem No. 11
+**Number Names** - Show how to spell out a number in English. You can use a preexisting implementation or roll your own, but you should support inputs up to at least one million (or the maximum value of your language's default bounded integer type, if that's less). Optional: Support for inputs other than positive integers (like zero, negative integers, and floating-point numbers).
+[Solution](https://github.com/sajjadm624/Quarantined-Days-Problem-Solving/blob/master/Number/Number%20Names.py)
+
+#### Problem No. 12
+**Coin Flip Simulation** - Write some code that simulates flipping a single coin however many times the user decides. The code should record the outcomes and count the number of tails and heads.
+[Solution](https://github.com/sajjadm624/Quarantined-Days-Problem-Solving/blob/master/Number/Coin%20Flip%20Simulation.py)
+
+### Classic Algorithms
+**Collatz Conjecture** - Start with a number n > 1. Find the number of steps it takes to reach one using the following process: If n is even, divide it by 2. If n is odd, multiply it by 3 and add 1.
+[Here](https://github.com/sajjadm624/Quarantined-Days-Problem-Solving/blob/master/Number/Collatz%20Conjecture.py)
+
