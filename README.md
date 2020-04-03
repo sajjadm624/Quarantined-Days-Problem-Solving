@@ -56,10 +56,13 @@ Its a mix up of problems which i found from-
 
 ### Classic Algorithms
 **Collatz Conjecture** - Start with a number n > 1. Find the number of steps it takes to reach one using the following process: If n is even, divide it by 2. If n is odd, multiply it by 3 and add 1.
-[**Here**](https://github.com/sajjadm624/Quarantined-Days-Problem-Solving/blob/master/Number/Collatz%20Conjecture.py)
+[**Here**](https://github.com/sajjadm624/Quarantined-Days-Problem-Solving/blob/master/Classic%20Algorithms/Collatz%20Conjecture.py)
 
 **Sorting** - Implement two types of sorting algorithms: Merge sort, Bubble sort, Quick Sort, Heap Sort.
-* [**Merge Sort**](https://github.com/sajjadm624/Quarantined-Days-Problem-Solving/blob/master/Number/Merge%20Sort.py)
-* [**Bubble Sort**](https://github.com/sajjadm624/Quarantined-Days-Problem-Solving/blob/master/Number/Bubble%20Sort.py)
-* [**Quick Sort**](https://github.com/sajjadm624/Quarantined-Days-Problem-Solving/blob/master/Number/Quick%20Sort.py)
-* [**Heap Sort**](https://github.com/sajjadm624/Quarantined-Days-Problem-Solving/blob/master/Number/Heap%20Sort.py)
+* [**Merge Sort**](https://github.com/sajjadm624/Quarantined-Days-Problem-Solving/blob/master/Classic%20Algorithms/Merge%20Sort.py)
+* [**Bubble Sort**](https://github.com/sajjadm624/Quarantined-Days-Problem-Solving/blob/master/Classic%20Algorithms/Bubble%20Sort.py)
+* [**Quick Sort**](https://github.com/sajjadm624/Quarantined-Days-Problem-Solving/blob/master/Classic%20Algorithms/Quick%20Sort.py)
+* [**Heap Sort**](https://github.com/sajjadm624/Quarantined-Days-Problem-Solving/blob/master/Classic%20Algorithms/Heap%20Sort.py)
+
+**Sieve of Eratosthenes** - The sieve of Eratosthenes is one of the most efficient ways to find all of the smaller primes (below 10 million or so).
+[Here](https://github.com/sajjadm624/Quarantined-Days-Problem-Solving/blob/master/Classic%20Algorithms/Sieve%20of%20Eratosthenes.py)
